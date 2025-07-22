@@ -41,7 +41,7 @@
 ## 📌 My Projects
 
 - 🧠 [Gesture & Pulse Rate Prediction](https://github.com/Achala-Patil/Gesture-Prediction)
-- 📞 [Call Centre Trends Analysis (PwC Virtual Case)](https://github.com/Your-Repo-Link)
+- 📞 [Call Centre Trends Analysis (PwC Virtual Case)](https://github.com/Achala-Patil/PwC-Call-Centre-Analysis)
 
 ---
 
