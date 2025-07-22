@@ -9,10 +9,10 @@
 
 🌟 I'm a passionate 3rd-year B.Tech student at VIT Pune, specializing in Data Science, Machine Learning, and Computer Vision.
 
-- 🔭 I’m currently working on: **Gesture Prediction using ML**
+- 🔭 I’m currently working on: **Web Development, AI and Open Source Projects**
 - 🌱 I’m learning: **NLP and Deep Learning**
 - 💬 Ask me about: `Machine Learning`, `Python`, `Pandas`, `Jupyter`
-- 📫 Reach me at: **your.email@gmail.com**
+- 📫 Reach me at: **achalapatil2755@gmail.com**
 - ⚡ Fun fact: I love simplifying tech topics for others!
 
 ---
@@ -23,7 +23,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
 ### Backend / ML
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -57,6 +56,5 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-F37626?style=flat&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/achala-prakash-patil-718152283/)  
 
